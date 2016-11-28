@@ -1,5 +1,5 @@
 # O Efeito Stroop
-Um estudo sobre o Efeito Stroop utilizando inferência estatística e Data Analysing.
+Um estudo sobre o Efeito Stroop utilizando inferência estatística e Data Analysis.
 
 #Requirements
 Para poder alterar este arquivo, você precisará de:
